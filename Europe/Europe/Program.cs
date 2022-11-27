@@ -6,8 +6,8 @@ namespace Europe
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("West Europe is compoused of:");
-            Console.WriteLine("9 countres");
+            Console.WriteLine("West Europe is composed of:");
+            Console.WriteLine("9 countries, such as:");
         }
     }
 }
