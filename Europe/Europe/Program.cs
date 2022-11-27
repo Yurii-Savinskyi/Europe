@@ -10,6 +10,7 @@ namespace Europe
             Console.WriteLine("9 countries, such as:");
             Console.WriteLine("Germany, France, Austria");
             Console.WriteLine("Germany:");
+            Console.WriteLine("The capital: Berlin");
         }
     }
 }
